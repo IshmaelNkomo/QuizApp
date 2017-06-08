@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Quiz App</string>
+
+    <string name="Ayanda">Ayanda Dlodlo</string>
+    <string name="Fikile">Fikile Mbalula</string>
+    <string name="Faith">Faith Muthambi</string>
+    <string name="Thokozile">Thokozile Xasa</string>
+    <string name="Oak">Oak</string>
+    <string name="Java">Java Script</string>
+
+
+</resources>
